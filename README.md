@@ -30,6 +30,14 @@ Frontend разработчик
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>Mysql
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
+      <br>Sass
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -48,6 +56,15 @@ Frontend разработчик
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>Nodejs
+    </td>
+    
   </tr>
 </table>
 
