@@ -80,5 +80,7 @@ Frontend разработчик
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![<b1adeDEV>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=b1adeDEV&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=b1adeDEV)
