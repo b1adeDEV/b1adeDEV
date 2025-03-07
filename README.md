@@ -4,9 +4,9 @@
 Frontend разработчик
 --------------------
 
-Я начинающий Frontend разработчик. С сентября 2023 года я начал изучать Frontend разработку. 
+Я Frontend разработчик. С сентября 2023 года я начал изучать Frontend разработку. 
+Опыт работы более 1 года
 
-В настоящий момент я прохожу курс обучения по Frontend
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/blade1707) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nightsin08@gmail.com)
 
